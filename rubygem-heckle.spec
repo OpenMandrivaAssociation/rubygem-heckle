@@ -3,7 +3,7 @@
 Summary:    Heckle is unit test sadism(tm) at it's core
 Name:       rubygem-%{oname}
 Version:    1.4.3
-Release:    %mkrel 1
+Release:    2
 Group:      Development/Ruby
 License:    MIT
 URL:        http://www.rubyforge.org/projects/seattlerb
