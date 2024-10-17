@@ -6,7 +6,7 @@ Version:    1.4.3
 Release:    2
 Group:      Development/Ruby
 License:    MIT
-URL:        http://www.rubyforge.org/projects/seattlerb
+URL:        https://www.rubyforge.org/projects/seattlerb
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
